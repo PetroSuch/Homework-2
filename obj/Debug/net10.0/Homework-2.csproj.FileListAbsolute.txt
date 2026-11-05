@@ -1,0 +1,197 @@
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.staticwebassets.runtime.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.exe
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.deps.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.runtimeconfig.json
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.dll
+C:\Users\User\Desktop\Курси\Homework-2\bin\Debug\net10.0\Homework-2.pdb
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.AssemblyInfo.cs
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\scopedcss\bundle\Homework-2.styles.css
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\scopedcss\projectbundle\Homework-2.bundle.scp.css
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\86fkck2jky-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\dan7nld16u-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\2oc03s378g-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\4fv4hh71pi-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\v064s66cc0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\862l1fjcxk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\vbi4uqram4-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\utkmomp24y-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\8ol9ugcfun-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\kn4g9btvrq-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\uomyu8874a-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\bcl53qwhfp-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\tj9o77sajm-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ypd0czw98h-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\wryeb7xgz7-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\wf1c97s6t9-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\w332si61fd-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\wz57ocm9fm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\8iapir2x4o-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ghtb984lc2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ppkmatvbx2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\zl23kfmy6t-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\2pz4jcikta-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\znlvfnax2t-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\p1lb8wi3df-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\sdbckv4jv2-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\v0cfpax0cg-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\tipw3yjh53-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\h6sofmstq6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\a7dwm0g997-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ounxfw8mfd-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\vtwj0e5z1m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\mc30uz2fif-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\jisv6bzavg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\gvmglelm0a-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\hxc0rkr1pn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ziznrhetil-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\hol07qwum7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\v3m4cilobo-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\i22l2rpekb-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\eamg05t2qk-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\7p37qaaxma-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\cu35jwrtkx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\7u9oqn6b7q-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\g8jn5iykjf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\0jjo5w8zrr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\u0cu6bthwk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\61jx4w5bul-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\hmhubi7xbk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\djvhxn1wxt-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ub9958u3m2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\akvrptigc4-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\oxkpj0r2lg-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ixfmoyj0lb-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\arfxs5ir34-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\wp73vqyti6-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\p166zm59fg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\14frd98v4m-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\wc619g68wr-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\rx0vas0t16-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\eztg0ysmx6-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\ykr9ve2ip8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\0cjxx40io2-{0}-82wo4d1t0n-82wo4d1t0n.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\compressed\dxzj8rzwpb-{0}-82wo4d1t0n-82wo4d1t0n.gz
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.dll
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\refint\Homework-2.dll
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.pdb
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.genruntimeconfig.cache
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\ref\Homework-2.dll
+C:\Users\User\Desktop\Курси\Homework-2\obj\Debug\net10.0\Homework-2.csproj.Up2Date
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.staticwebassets.runtime.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.exe
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.deps.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.runtimeconfig.json
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.dll
+C:\Users\User\Desktop\Курси 2\Homework-2\bin\Debug\net10.0\Homework-2.pdb
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.AssemblyInfo.cs
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.sourcelink.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\scopedcss\bundle\Homework-2.styles.css
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\scopedcss\projectbundle\Homework-2.bundle.scp.css
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\86fkck2jky-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\dan7nld16u-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\2oc03s378g-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\4fv4hh71pi-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\v064s66cc0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\862l1fjcxk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\vbi4uqram4-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\utkmomp24y-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\8ol9ugcfun-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\kn4g9btvrq-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\uomyu8874a-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\bcl53qwhfp-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\tj9o77sajm-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ypd0czw98h-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\wryeb7xgz7-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\wf1c97s6t9-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\w332si61fd-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\wz57ocm9fm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\8iapir2x4o-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ghtb984lc2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ppkmatvbx2-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\zl23kfmy6t-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\2pz4jcikta-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\znlvfnax2t-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\p1lb8wi3df-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\sdbckv4jv2-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\v0cfpax0cg-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\tipw3yjh53-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\h6sofmstq6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\a7dwm0g997-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ounxfw8mfd-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\vtwj0e5z1m-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\mc30uz2fif-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\jisv6bzavg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\gvmglelm0a-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\hxc0rkr1pn-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ziznrhetil-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\hol07qwum7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\v3m4cilobo-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\i22l2rpekb-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\eamg05t2qk-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\7p37qaaxma-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\cu35jwrtkx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\7u9oqn6b7q-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\g8jn5iykjf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\0jjo5w8zrr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\u0cu6bthwk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\61jx4w5bul-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\hmhubi7xbk-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\djvhxn1wxt-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ub9958u3m2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\akvrptigc4-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\oxkpj0r2lg-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ixfmoyj0lb-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\arfxs5ir34-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\wp73vqyti6-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\p166zm59fg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\14frd98v4m-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\wc619g68wr-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\rx0vas0t16-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\eztg0ysmx6-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\ykr9ve2ip8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\0cjxx40io2-{0}-82wo4d1t0n-82wo4d1t0n.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\compressed\dxzj8rzwpb-{0}-82wo4d1t0n-82wo4d1t0n.gz
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.dll
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\refint\Homework-2.dll
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.pdb
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\Homework-2.genruntimeconfig.cache
+C:\Users\User\Desktop\Курси 2\Homework-2\obj\Debug\net10.0\ref\Homework-2.dll
