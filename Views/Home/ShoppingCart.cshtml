@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Your Shopping Cart";
+}
+
+<div class="text-center">
+    @using (Html.BeginForm())
+    {
+        <p>Input your fullname:</p>
+        @Html.TextBox("FullName")
+
+        <p>Input your address:</p>
+        @Html.TextBox("Address")
+
+        <p>Choose a supermarket:</p>
+        @Html.DropDownList("Market", new SelectList(ViewBag.SuperMarkets))
+
+        <p>Choose delivery date:</p>
+        @for (int i = 0; i < 3; i++)
+        {
+            var date = DateTime.Today.AddDays(i);
+
+            <label>
+                @Html.RadioButton(expression: "DeliveryDate", date.ToString("yyyy-MM-dd"))
+                @date.ToShortDateString()
+            </label>
+            <br />
+        }
+
+        <p>Choose products:</p>
+        @Html.ListBox("SelectedProducts", new SelectList(ViewBag.Products))
+
+        <input type="submit" value="Send" />
+    }
+</div>
