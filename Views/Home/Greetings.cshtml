@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Greetings";
+}
+
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Greetings</h1>
+    @{
+        int hour = DateTime.Now.Hour;
+        string result = "";
+
+        if(hour < 12)
+        {
+            result = "Good morning";
+        }
+        else if(hour < 17)
+        {
+            result = "Good day";
+        }
+        else
+        {
+            result = "Good evening";
+        }
+
+        <p class="mb-0">@result!</p>
+    }
+</div>
