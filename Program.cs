@@ -6,8 +6,9 @@ namespace Homework_2
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddTransient<ITimeService, SimpleTimeService>();
 
             var app = builder.Build();
 
