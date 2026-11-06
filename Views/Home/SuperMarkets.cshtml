@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "SuperMarkets";
+}
+
+<div>
+    <h1>Our Supermarkets</h1>
+    <h2>There are <span>@ViewBag.SuperMarkets.Count</span> markets:</h2>
+
+    <div>
+        @foreach(var item in ViewBag.SuperMarkets)
+        {
+            <p>@item</p>  
+        }
+    </div>
+</div>
