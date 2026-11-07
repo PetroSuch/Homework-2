@@ -1,15 +1,15 @@
-﻿@{
+@{
     ViewData["Title"] = "SuperMarkets";
 }
 
-<div>
-    <h1>Our Supermarkets</h1>
-    <h2>There are <span>@ViewBag.SuperMarkets.Count</span> markets:</h2>
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Our supermarkets</h1>
+    <p class="text-muted">Available supermarkets: @ViewBag.SuperMarkets.Count</p>
 
-    <div>
-        @foreach(var item in ViewBag.SuperMarkets)
+    <ul class="list-group">
+        @foreach (var item in ViewBag.SuperMarkets)
         {
-            <p>@item</p>  
+            <li class="list-group-item">@item</li>
         }
-    </div>
+    </ul>
 </div>
