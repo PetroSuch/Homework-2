@@ -1,0 +1,65 @@
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Order summary";
+    double total = 0;
+
+    foreach (var product in Model)
+    {
+        total += product.Price * product.Quantity;
+    }
+}
+
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Your order</h1>
+    <p>Thank you for your order, @ViewBag.FullName!</p>
+
+    <dl class="row mb-4">
+        <dt class="col-sm-4">Full name</dt>
+        <dd class="col-sm-8 text-break">@ViewBag.FullName</dd>
+
+        <dt class="col-sm-4">Delivery address</dt>
+        <dd class="col-sm-8 text-break">@ViewBag.Address</dd>
+
+        <dt class="col-sm-4">Supermarket</dt>
+        <dd class="col-sm-8">@ViewBag.Market</dd>
+
+        <dt class="col-sm-4">Delivery date</dt>
+        <dd class="col-sm-8">@ViewBag.DeliveryDate.ToString("dd.MM.yyyy")</dd>
+    </dl>
+
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th scope="col">Product</th>
+                    <th scope="col" class="text-end">Price, UAH / unit</th>
+                    <th scope="col" class="text-center">Qty</th>
+                    <th scope="col" class="text-end">Total, UAH</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td class="text-end">@product.Price.ToString("F2")</td>
+                        <td class="text-center">@product.Quantity</td>
+                        <td class="text-end">@((product.Price * product.Quantity).ToString("F2"))</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th scope="row" colspan="3">Order total</th>
+                    <td class="text-end fw-bold">@total.ToString("F2") UAH</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <div class="d-flex flex-wrap gap-2 mt-3">
+        <a class="btn btn-primary" asp-action="ShoppingCart">New order</a>
+        <a class="btn btn-outline-primary" asp-action="SprintTasks">Sprint tasks</a>
+    </div>
+</div>
