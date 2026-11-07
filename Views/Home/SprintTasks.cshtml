@@ -1,25 +1,15 @@
-﻿@{
+@{
     ViewData["Title"] = "Sprint Tasks";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Sprint Tasks</h1>
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Sprint tasks</h1>
 
-    <ul class="navbar-nav flex-grow-1">
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Greetings">Greetings</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ProductInfo">Product Info</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="SuperMarkets">Super Markets</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ShoppingList">Shopping List</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ShoppingCart">Shopping Cart</a>
-        </li>
-    </ul>
+    <div class="list-group">
+        <a class="list-group-item list-group-item-action" asp-action="Greetings">Greetings</a>
+        <a class="list-group-item list-group-item-action" asp-action="ProductInfo">Product info</a>
+        <a class="list-group-item list-group-item-action" asp-action="SuperMarkets">Supermarkets</a>
+        <a class="list-group-item list-group-item-action" asp-action="ShoppingList">Shopping list</a>
+        <a class="list-group-item list-group-item-action" asp-action="ShoppingCart">Shopping cart</a>
+    </div>
 </div>
