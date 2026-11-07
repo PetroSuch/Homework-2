@@ -1,32 +1,29 @@
-﻿@{
+@{
     ViewData["Title"] = "Product Info";
 }
 
-<div class="text-center">
-    @{
-        List<Product> list = new List<Product>
-        {
-            new Product { Name = "Bread", Price = 35.50 },
-            new Product { Name = "Milk", Price = 48.00 },
-            new Product { Name = "Apples", Price = 32.90 }
-        };
+@model List<Product>
 
-        <table class="table">
-            <thead>
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Product info</h1>
+
+    <div class="table-responsive">
+        <table class="table align-middle">
+            <thead class="table-light">
                 <tr>
-                    <th>Name</th>
-                    <th>Price</th>
+                    <th scope="col">Product</th>
+                    <th scope="col" class="text-end">Price, UAH / unit</th>
                 </tr>
             </thead>
             <tbody>
-                @foreach(var item in list)
+                @foreach (var item in Model)
                 {
                     <tr>
                         <td>@item.Name</td>
-                        <td>@item.Price</td>
+                        <td class="text-end">@item.Price.ToString("F2")</td>
                     </tr>
                 }
             </tbody>
         </table>
-    }
+    </div>
 </div>
