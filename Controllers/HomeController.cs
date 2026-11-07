@@ -36,19 +36,7 @@ namespace Homework_2.Controllers
 
         public IActionResult ProductInfo()
         {
-            var products = new List<Product>
-            {
-                new Product { Name = "Bread", Price = 10 },
-                new Product { Name = "Milk", Price = 11 },
-                new Product { Name = "Cheese", Price = 140 },
-                new Product { Name = "Sausage", Price = 110 },
-                new Product { Name = "Potato", Price = 7 },
-                new Product { Name = "Banana", Price = 23 },
-                new Product { Name = "Tomato", Price = 25 },
-                new Product { Name = "Candy", Price = 75 }
-            };
-
-            return View(products);
+            return View();
         }
 
         public IActionResult SuperMarkets()
