@@ -14,7 +14,7 @@ namespace Homework_2.Controllers
         private readonly List<Product> _products = new()
         {
             new Product { Name = "Bread", Price = 35.50, Quantity = 2 },
-            new Product { Name = "Ice cream", Price = 65.00, Quantity = 1 },
+            new Product { Name = "Cheese", Price = 65.00, Quantity = 1 },
             new Product { Name = "Water", Price = 20.00, Quantity = 3 }
         };
         
@@ -36,7 +36,19 @@ namespace Homework_2.Controllers
 
         public IActionResult ProductInfo()
         {
-            return View(_products);
+            var products = new List<Product>
+            {
+                new Product { Name = "Bread", Price = 10 },
+                new Product { Name = "Milk", Price = 11 },
+                new Product { Name = "Cheese", Price = 140 },
+                new Product { Name = "Sausage", Price = 110 },
+                new Product { Name = "Potato", Price = 7 },
+                new Product { Name = "Banana", Price = 23 },
+                new Product { Name = "Tomato", Price = 25 },
+                new Product { Name = "Candy", Price = 75 }
+            };
+
+            return View(products);
         }
 
         public IActionResult SuperMarkets()
