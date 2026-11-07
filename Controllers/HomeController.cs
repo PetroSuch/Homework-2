@@ -11,11 +11,11 @@ namespace Homework_2.Controllers
             "Market 1", "Market 2", "Market 3"
         };
 
-        private readonly Dictionary<string, int> _products = new Dictionary<string, int>
+        private readonly List<Product> _products = new()
         {
-            { "Bread", 2 },
-            { "Ice cream", 1 },
-            { "Water", 3 }
+            new Product { Name = "Bread", Price = 35.50, Quantity = 2 },
+            new Product { Name = "Ice cream", Price = 65.00, Quantity = 1 },
+            new Product { Name = "Water", Price = 20.00, Quantity = 3 }
         };
         
            
@@ -36,7 +36,7 @@ namespace Homework_2.Controllers
 
         public IActionResult ProductInfo()
         {
-            return View();
+            return View(_products);
         }
 
         public IActionResult SuperMarkets()
@@ -47,16 +47,22 @@ namespace Homework_2.Controllers
 
         public IActionResult ShoppingList()
         {
-            return View(_products);
+            var shoppingList = new Dictionary<string, int>();
+
+            foreach (var product in _products)
+            {
+                shoppingList.Add(product.Name, product.Quantity);
+            }
+
+            return View(shoppingList);
         }
 
         [HttpGet]
         public IActionResult ShoppingCart()
         {
-            ViewBag.Products = _products.Keys;
             ViewBag.SuperMarkets = _superMarkets;
 
-            return View();
+            return View(_products);
         }
 
         [HttpPost]
@@ -67,7 +73,29 @@ namespace Homework_2.Controllers
             DateTime DeliveryDate,
             string[] SelectedProducts)
         {
-            return Content($"Your order from {Market} will be delivered to {Address} on {DeliveryDate:dd.MM.yyyy}. Thank you for your order, {FullName}. Products: {string.Join(", ", SelectedProducts)}");
+            if (SelectedProducts == null || SelectedProducts.Length == 0)
+            {
+                ModelState.AddModelError("", "Select at least one product.");
+                ViewBag.SuperMarkets = _superMarkets;
+                return View(_products);
+            }
+
+            var orderedProducts = new List<Product>();
+
+            foreach (var product in _products)
+            {
+                if (SelectedProducts.Contains(product.Name))
+                {
+                    orderedProducts.Add(product);
+                }
+            }
+
+            ViewBag.FullName = FullName;
+            ViewBag.Address = Address;
+            ViewBag.Market = Market;
+            ViewBag.DeliveryDate = DeliveryDate;
+
+            return View("OrderSummary", orderedProducts);
         }
 
         public IActionResult Privacy()
