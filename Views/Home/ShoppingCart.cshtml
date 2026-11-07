@@ -1,34 +1,75 @@
-﻿@{
+﻿@model List<Product>
+
+@{
     ViewData["Title"] = "Your Shopping Cart";
 }
 
-<div class="text-center">
+<div class="shopping-cart mx-auto my-4">
+    <h1 class="h3 mb-4">Your shopping cart</h1>
+
     @using (Html.BeginForm())
     {
-        <p>Input your fullname:</p>
-        @Html.TextBox("FullName")
+        <div class="mb-3">
+            @Html.Label("FullName", "Full name", new { @class = "form-label" })
+            @Html.TextBox("FullName", null, new { @class = "form-control", required = "required" })
+        </div>
 
-        <p>Input your address:</p>
-        @Html.TextBox("Address")
+        <div class="mb-3">
+            @Html.Label("Address", "Delivery address", new { @class = "form-label" })
+            @Html.TextBox("Address", null, new { @class = "form-control", required = "required" })
+        </div>
 
-        <p>Choose a supermarket:</p>
-        @Html.DropDownList("Market", new SelectList(ViewBag.SuperMarkets))
+        <div class="mb-3">
+            @Html.Label("Market", "Supermarket", new { @class = "form-label" })
+            @Html.DropDownList("Market", new SelectList(ViewBag.SuperMarkets), new { @class = "form-select" })
+        </div>
 
-        <p>Choose delivery date:</p>
-        @for (int i = 0; i < 3; i++)
-        {
-            var date = DateTime.Today.AddDays(i);
+        <fieldset class="mb-4">
+            <legend class="fs-6">Delivery date</legend>
+            <div class="d-flex flex-wrap gap-2">
+                @for (int i = 0; i < 3; i++)
+                {
+                    var date = DateTime.Today.AddDays(i);
+                    var buttonId = "delivery-" + i;
 
-            <label>
-                @Html.RadioButton(expression: "DeliveryDate", date.ToString("yyyy-MM-dd"))
-                @date.ToShortDateString()
-            </label>
-            <br />
-        }
+                    @Html.RadioButton("DeliveryDate", date.ToString("yyyy-MM-dd"), new { id = buttonId, @class = "btn-check", required = "required" })
+                    <label class="btn btn-outline-primary" for="@buttonId">@date.ToString("dd.MM.yyyy")</label>
+                }
+            </div>
+        </fieldset>
 
-        <p>Choose products:</p>
-        @Html.ListBox("SelectedProducts", new SelectList(ViewBag.Products))
+        <h2 class="h5">Choose products</h2>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
-        <input type="submit" value="Send" />
+        <div class="table-responsive">
+            <table class="table align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th scope="col"><span class="visually-hidden">Select</span></th>
+                        <th scope="col">Product</th>
+                        <th scope="col" class="text-center">Qty</th>
+                        <th scope="col" class="text-end">Price, UAH / unit</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        var product = Model[i];
+
+                        <tr>
+                            <td>
+                                <input type="checkbox" class="form-check-input" id="product-@i"
+                                       name="SelectedProducts" value="@product.Name" />
+                            </td>
+                            <td><label for="product-@i">@product.Name</label></td>
+                            <td class="text-center">@product.Quantity</td>
+                            <td class="text-end">@product.Price.ToString("F2")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Place order</button>
     }
 </div>
