@@ -1,17 +1,18 @@
-﻿@model Dictionary<string, int>
+@model Dictionary<string, int>
 
 @{
     ViewData["Title"] = "Shopping List";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Shopping List</h1>
+<div class="page-content mx-auto my-4">
+    <h1 class="h3 mb-4">Shopping list</h1>
 
-    <table class="table">
-        <thead>
+    <div class="table-responsive">
+    <table class="table align-middle">
+        <thead class="table-light">
             <tr>
-                <th>Product</th>
-                <th>Quantity</th>
+                <th scope="col">Product</th>
+                <th scope="col" class="text-end">Quantity</th>
             </tr>
         </thead>
         <tbody>
@@ -19,11 +20,12 @@
             {   
                 <tr>
                     <td>@item.Key</td>
-                    <td>@item.Value</td>
+                    <td class="text-end">@item.Value</td>
                 </tr>
             }
         </tbody>
     </table>
+    </div>
 
     <partial name="TimeToBuy" />
 </div>

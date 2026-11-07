@@ -1,7 +1,6 @@
-﻿@inject ITimeService TimeService
+@inject ITimeService TimeService
 
-<div>
-    <div>
-        <p>@TimeService.GetTimeForTomorrow()</p>
-    </div>
+<div class="border-top pt-3 mt-4">
+    <h2 class="h5">Time to buy</h2>
+    <p class="text-muted mb-0">Shopping time tomorrow: @TimeService.GetTimeForTomorrow().ToString("dd.MM.yyyy HH:mm")</p>
 </div>
