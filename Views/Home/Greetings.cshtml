@@ -1,26 +1,53 @@
 ﻿@{
     ViewData["Title"] = "Greetings";
+    DateTimeOffset now = DateTimeOffset.Now;
+    string myMessage = "Hello C# Marathon!";
+    string greeting = "Welcome to our project!";
+    string dayOfWeek = now.DayOfWeek.ToString();
+    string timeGreeting = "Good Evening!";
+
+    if (now.Hour < 12)
+    {
+        timeGreeting = "Good Morning!";
+    }
+    else if (now.Hour < 17)
+    {
+        timeGreeting = "Good Day!";
+    }
 }
 
-<div class="page-content mx-auto my-4">
-    <h1 class="h3 mb-4">Greetings</h1>
-    @{
-        int hour = DateTime.Now.Hour;
-        string result = "";
+<div>
+    <h1>Greetings</h1>
+    <p>The value of myMessage is: @myMessage</p>
+    <p>The greeting is: @greeting</p>
+    <p>Here in Ukraine: @dayOfWeek</p>
+    <p>We wish you: @timeGreeting</p>
+    <p>Today is @dayOfWeek</p>
 
-        if(hour < 12)
-        {
-            result = "Good morning";
-        }
-        else if(hour < 17)
-        {
-            result = "Good day";
-        }
-        else
-        {
-            result = "Good evening";
-        }
-
-        <p class="mb-0">@result!</p>
-    }
+    <table class="table table-bordered border-secondary w-auto">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Day</td>
+                <td>@now.Day</td>
+            </tr>
+            <tr>
+                <td>Hour</td>
+                <td>@now.Hour</td>
+            </tr>
+            <tr>
+                <td>Minute</td>
+                <td>@now.Minute</td>
+            </tr>
+            <tr>
+                <td>Second</td>
+                <td>@now.Second</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
